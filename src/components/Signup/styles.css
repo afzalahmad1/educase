@@ -1,0 +1,30 @@
+.agency{
+    display: flex;
+    flex-direction: column;
+    row-gap: .3rem;
+}
+.radio{
+    display: flex;
+    column-gap: .5rem;
+    flex-flow: row wrap;
+}
+.container span{
+    color: red;
+}
+h2{
+    margin: 0;
+    margin-bottom: 1.5rem;
+}
+.signup-form{
+
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    /* align-items: stretch; */
+    row-gap: 5rem;
+}
+.input-flex{
+    display: flex;
+    flex-direction: column;
+    row-gap: 1.5rem;
+}
